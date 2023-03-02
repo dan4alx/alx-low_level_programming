@@ -5,7 +5,7 @@
  * @a: array
  * @n: Number of values to be printed
  */
-void print_array(int *a, iint n)
+void print_array(int *a, int n)
 {
 int t;
 for (t = 0; t < n; t++)
